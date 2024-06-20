@@ -1,0 +1,137 @@
+#container {
+    display: block;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+#childrenMap {
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    height: 100%;
+    width: 100%;
+}
+
+#geral {
+    margin-top: 0.2%;
+    margin-bottom:  0.2%;
+    display: block;
+    width: 100%;
+    height: 100%;
+    padding: 0px 10px;
+}
+
+#divTipoDisposicao{
+    z-index: 0;
+    margin-bottom:  0.2%;
+    width: 100%;
+}
+
+#mapsVinculos {
+    border-radius: 10px;
+    border: solid #0f68f4 1px;
+    height: 68%;
+    width: 100%;
+}
+
+.map-label {
+    background-color: #ffffff;
+    border: 1px solid #000000;
+    padding: 0.1% 1px;
+    border-radius: 5px;
+    font-size: 10px;
+    color: #000000;
+}
+
+#gridInfos {
+    border-radius: 10px;
+    border: solid #0f68f4 1px;
+    margin-top:  0.4%;
+    max-height: 28%;
+    overflow-y: auto;
+    overflow-x: scroll;
+    text-align: center;
+}
+
+#tableInfos {
+    width: 95%;
+    border-collapse: collapse;
+    margin: 0.4% auto;
+    /* Centraliza a tabela na div */
+}
+
+th, td {
+    border: 1px solid #ddd;
+    font-weight: bold;
+    width: auto;
+}
+
+#tableHead {
+    background-color: black;
+    color: white;
+    text-align: center;
+    position: sticky;
+    top: 0;
+    z-index: 1;
+}
+
+#tdInfos {
+    color: black;
+    text-align: left;   
+}
+
+#tableInfos_filter {
+    text-align: end;
+    margin-right: 5%;
+    margin-top: 0.2%;
+}
+
+
+
+div.dataTables_wrapper div.dataTables_filter label {
+    color: white;
+    font-weight: bold;
+}
+
+#conteudo{
+    text-align: left;  
+    background-color: white;
+}
+
+#modalBody{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.lbCheckbox{
+    margin-top: 1%;
+    width: 50%;
+}
+
+#opcMarcadores{
+    z-index: 999;
+}
+
+#horaPai{
+    display: none;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    height: 30px;
+}
+
+#horaGrid{
+    display: none;
+    width: 30%;
+    height: 100%;
+    background-color: whitesmoke;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 20px;
+    min-width: 380px;
+}

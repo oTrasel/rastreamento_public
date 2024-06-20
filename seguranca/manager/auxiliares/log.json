@@ -1,0 +1,708 @@
+{
+    "gps": [
+        {
+            "id_rastreador": "6",
+            "id_servico": "91",
+            "ras_vei_placa": "MOVEL",
+            "DT_ULT_POSICAO": "2023-12-15 02:19:23.000",
+            "LATITUDE": "-16.604932999999999",
+            "LONGITUDE": "-49.200561999999998",
+            "VELOCIDADE": "0.0",
+            "pontos": {
+                "148": [
+                    {
+                        "latitude": "-16.604198897463",
+                        "longitude": "-49.169929647391",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "1"
+                    },
+                    {
+                        "latitude": "-16.602918851288",
+                        "longitude": "-49.176667356436",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "2"
+                    },
+                    {
+                        "latitude": "-16.602888006696",
+                        "longitude": "-49.182396554892",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "3"
+                    },
+                    {
+                        "latitude": "-16.603052511126",
+                        "longitude": "-49.186473512595",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "4"
+                    },
+                    {
+                        "latitude": "-16.605705125617",
+                        "longitude": "-49.190089130347",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "5"
+                    },
+                    {
+                        "latitude": "-16.606301444763",
+                        "longitude": "-49.190014028495",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "6"
+                    },
+                    {
+                        "latitude": "-16.607103388282",
+                        "longitude": "-49.187900447791",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "7"
+                    },
+                    {
+                        "latitude": "-16.60778195326",
+                        "longitude": "-49.186881208365",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "8"
+                    },
+                    {
+                        "latitude": "-16.608193203596",
+                        "longitude": "-49.185754680579",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "9"
+                    },
+                    {
+                        "latitude": "-16.6081726411",
+                        "longitude": "-49.184477949088",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "10"
+                    },
+                    {
+                        "latitude": "-16.608398828433",
+                        "longitude": "-49.184349203055",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "11"
+                    },
+                    {
+                        "latitude": "-16.608974576808",
+                        "longitude": "-49.184864187186",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "12"
+                    },
+                    {
+                        "latitude": "-16.610372815675",
+                        "longitude": "-49.185593748038",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "13"
+                    },
+                    {
+                        "latitude": "-16.611709358018",
+                        "longitude": "-49.185658121054",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "14"
+                    },
+                    {
+                        "latitude": "-16.615410503654",
+                        "longitude": "-49.185743951743",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "15"
+                    },
+                    {
+                        "latitude": "-16.61557499736",
+                        "longitude": "-49.185035848563",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "16"
+                    },
+                    {
+                        "latitude": "-16.615328256748",
+                        "longitude": "-49.184263372367",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "17"
+                    },
+                    {
+                        "latitude": "-16.614094548934",
+                        "longitude": "-49.183598184531",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "18"
+                    },
+                    {
+                        "latitude": "-16.614505785753",
+                        "longitude": "-49.182439470237",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "19"
+                    },
+                    {
+                        "latitude": "-16.614958145236",
+                        "longitude": "-49.181945943778",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "20"
+                    },
+                    {
+                        "latitude": "-16.614279605611",
+                        "longitude": "-49.177654409354",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "21"
+                    },
+                    {
+                        "latitude": "-16.613642187416",
+                        "longitude": "-49.176109456961",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "22"
+                    },
+                    {
+                        "latitude": "-16.61247015489",
+                        "longitude": "-49.175508642142",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "23"
+                    },
+                    {
+                        "latitude": "-16.612264534411",
+                        "longitude": "-49.174521589225",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "24"
+                    },
+                    {
+                        "latitude": "-16.611236428714",
+                        "longitude": "-49.173641824668",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "25"
+                    },
+                    {
+                        "latitude": "-16.608851202301",
+                        "longitude": "-49.172611856406",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "26"
+                    },
+                    {
+                        "latitude": "-16.606815511506",
+                        "longitude": "-49.172289991324",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "27"
+                    },
+                    {
+                        "latitude": "-16.606404258221",
+                        "longitude": "-49.171474599784",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "28"
+                    },
+                    {
+                        "latitude": "-16.605746251134",
+                        "longitude": "-49.170745038932",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "29"
+                    },
+                    {
+                        "latitude": "-16.604198897463",
+                        "longitude": "-49.169929647391",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "30"
+                    }
+                ]
+            }
+        },
+        {
+            "id_rastreador": "9",
+            "id_servico": "93",
+            "ras_vei_placa": "RCA8A98",
+            "DT_ULT_POSICAO": "2024-01-09 10:08:49.000",
+            "LATITUDE": "-16.564992",
+            "LONGITUDE": "-49.154597000000003",
+            "VELOCIDADE": "91.0",
+            "pontos": {
+                "51": [
+                    {
+                        "latitude": "-16.621895282337",
+                        "longitude": "-49.199483544465",
+                        "descr_endereco": "ALPHA PT01",
+                        "raio_ponto_mtrs": "50",
+                        "ordem": "1"
+                    }
+                ],
+                "52": [
+                    {
+                        "latitude": "-16.620841526787",
+                        "longitude": "-49.199950248833",
+                        "descr_endereco": "ALPHA PT02",
+                        "raio_ponto_mtrs": "50",
+                        "ordem": "1"
+                    }
+                ],
+                "53": [
+                    {
+                        "latitude": "-16.620466285609",
+                        "longitude": "-49.203480035897",
+                        "descr_endereco": "ALPHA PT03",
+                        "raio_ponto_mtrs": "50",
+                        "ordem": "1"
+                    }
+                ],
+                "55": [
+                    {
+                        "latitude": "-16.617942384105",
+                        "longitude": "-49.200325758095",
+                        "descr_endereco": "ALPHA PT05",
+                        "raio_ponto_mtrs": "50",
+                        "ordem": "1"
+                    }
+                ],
+                "56": [
+                    {
+                        "latitude": "-16.616718973879",
+                        "longitude": "-49.199478180047",
+                        "descr_endereco": "ALPHA PT06",
+                        "raio_ponto_mtrs": "50",
+                        "ordem": "1"
+                    }
+                ],
+                "148": [
+                    {
+                        "latitude": "-16.604198897463",
+                        "longitude": "-49.169929647391",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "1"
+                    },
+                    {
+                        "latitude": "-16.602918851288",
+                        "longitude": "-49.176667356436",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "2"
+                    },
+                    {
+                        "latitude": "-16.602888006696",
+                        "longitude": "-49.182396554892",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "3"
+                    },
+                    {
+                        "latitude": "-16.603052511126",
+                        "longitude": "-49.186473512595",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "4"
+                    },
+                    {
+                        "latitude": "-16.605705125617",
+                        "longitude": "-49.190089130347",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "5"
+                    },
+                    {
+                        "latitude": "-16.606301444763",
+                        "longitude": "-49.190014028495",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "6"
+                    },
+                    {
+                        "latitude": "-16.607103388282",
+                        "longitude": "-49.187900447791",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "7"
+                    },
+                    {
+                        "latitude": "-16.60778195326",
+                        "longitude": "-49.186881208365",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "8"
+                    },
+                    {
+                        "latitude": "-16.608193203596",
+                        "longitude": "-49.185754680579",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "9"
+                    },
+                    {
+                        "latitude": "-16.6081726411",
+                        "longitude": "-49.184477949088",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "10"
+                    },
+                    {
+                        "latitude": "-16.608398828433",
+                        "longitude": "-49.184349203055",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "11"
+                    },
+                    {
+                        "latitude": "-16.608974576808",
+                        "longitude": "-49.184864187186",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "12"
+                    },
+                    {
+                        "latitude": "-16.610372815675",
+                        "longitude": "-49.185593748038",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "13"
+                    },
+                    {
+                        "latitude": "-16.611709358018",
+                        "longitude": "-49.185658121054",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "14"
+                    },
+                    {
+                        "latitude": "-16.615410503654",
+                        "longitude": "-49.185743951743",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "15"
+                    },
+                    {
+                        "latitude": "-16.61557499736",
+                        "longitude": "-49.185035848563",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "16"
+                    },
+                    {
+                        "latitude": "-16.615328256748",
+                        "longitude": "-49.184263372367",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "17"
+                    },
+                    {
+                        "latitude": "-16.614094548934",
+                        "longitude": "-49.183598184531",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "18"
+                    },
+                    {
+                        "latitude": "-16.614505785753",
+                        "longitude": "-49.182439470237",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "19"
+                    },
+                    {
+                        "latitude": "-16.614958145236",
+                        "longitude": "-49.181945943778",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "20"
+                    },
+                    {
+                        "latitude": "-16.614279605611",
+                        "longitude": "-49.177654409354",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "21"
+                    },
+                    {
+                        "latitude": "-16.613642187416",
+                        "longitude": "-49.176109456961",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "22"
+                    },
+                    {
+                        "latitude": "-16.61247015489",
+                        "longitude": "-49.175508642142",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "23"
+                    },
+                    {
+                        "latitude": "-16.612264534411",
+                        "longitude": "-49.174521589225",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "24"
+                    },
+                    {
+                        "latitude": "-16.611236428714",
+                        "longitude": "-49.173641824668",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "25"
+                    },
+                    {
+                        "latitude": "-16.608851202301",
+                        "longitude": "-49.172611856406",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "26"
+                    },
+                    {
+                        "latitude": "-16.606815511506",
+                        "longitude": "-49.172289991324",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "27"
+                    },
+                    {
+                        "latitude": "-16.606404258221",
+                        "longitude": "-49.171474599784",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "28"
+                    },
+                    {
+                        "latitude": "-16.605746251134",
+                        "longitude": "-49.170745038932",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "29"
+                    },
+                    {
+                        "latitude": "-16.604198897463",
+                        "longitude": "-49.169929647391",
+                        "descr_endereco": "AREA DELTA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "30"
+                    }
+                ],
+                "145": [
+                    {
+                        "latitude": "-16.619777484825",
+                        "longitude": "-49.206285626527",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "1"
+                    },
+                    {
+                        "latitude": "-16.624958850976",
+                        "longitude": "-49.205792100068",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "2"
+                    },
+                    {
+                        "latitude": "-16.620990594997",
+                        "longitude": "-49.196758420106",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "3"
+                    },
+                    {
+                        "latitude": "-16.62006534217",
+                        "longitude": "-49.192166478272",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "4"
+                    },
+                    {
+                        "latitude": "-16.616940010758",
+                        "longitude": "-49.175172001954",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "5"
+                    },
+                    {
+                        "latitude": "-16.615397887697",
+                        "longitude": "-49.173863083954",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "6"
+                    },
+                    {
+                        "latitude": "-16.613280018508",
+                        "longitude": "-49.173133523102",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "7"
+                    },
+                    {
+                        "latitude": "-16.609517144762",
+                        "longitude": "-49.171245247956",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "8"
+                    },
+                    {
+                        "latitude": "-16.604211984422",
+                        "longitude": "-49.169743210908",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "9"
+                    },
+                    {
+                        "latitude": "-16.60398579216",
+                        "longitude": "-49.170451314088",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "10"
+                    },
+                    {
+                        "latitude": "-16.60519900209",
+                        "longitude": "-49.17058006012",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "11"
+                    },
+                    {
+                        "latitude": "-16.605918699275",
+                        "longitude": "-49.17158857071",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "12"
+                    },
+                    {
+                        "latitude": "-16.606473892405",
+                        "longitude": "-49.172618538972",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "13"
+                    },
+                    {
+                        "latitude": "-16.608406774488",
+                        "longitude": "-49.172876031037",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "14"
+                    },
+                    {
+                        "latitude": "-16.611079877236",
+                        "longitude": "-49.173863083954",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "15"
+                    },
+                    {
+                        "latitude": "-16.613506199826",
+                        "longitude": "-49.175279290314",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "16"
+                    },
+                    {
+                        "latitude": "-16.613814628468",
+                        "longitude": "-49.178326279755",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "17"
+                    },
+                    {
+                        "latitude": "-16.61416418033",
+                        "longitude": "-49.181437642213",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "18"
+                    },
+                    {
+                        "latitude": "-16.613444514039",
+                        "longitude": "-49.183240086671",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "19"
+                    },
+                    {
+                        "latitude": "-16.613979123541",
+                        "longitude": "-49.184742123719",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "20"
+                    },
+                    {
+                        "latitude": "-16.615253955579",
+                        "longitude": "-49.1863729068",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "21"
+                    },
+                    {
+                        "latitude": "-16.615747436676",
+                        "longitude": "-49.188475758668",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "22"
+                    },
+                    {
+                        "latitude": "-16.615110023353",
+                        "longitude": "-49.191780240174",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "23"
+                    },
+                    {
+                        "latitude": "-16.615911930093",
+                        "longitude": "-49.196221978303",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "24"
+                    },
+                    {
+                        "latitude": "-16.616446532726",
+                        "longitude": "-49.199762494202",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "25"
+                    },
+                    {
+                        "latitude": "-16.616652148726",
+                        "longitude": "-49.201007039185",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "26"
+                    },
+                    {
+                        "latitude": "-16.617803594261",
+                        "longitude": "-49.201414734955",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "27"
+                    },
+                    {
+                        "latitude": "-16.61879054208",
+                        "longitude": "-49.20338884079",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "28"
+                    },
+                    {
+                        "latitude": "-16.619263452779",
+                        "longitude": "-49.205448777314",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "29"
+                    },
+                    {
+                        "latitude": "-16.619777484825",
+                        "longitude": "-49.206285626527",
+                        "descr_endereco": "AREA ALPHA",
+                        "raio_ponto_mtrs": "0",
+                        "ordem": "30"
+                    }
+                ]
+            }
+        }
+    ],
+    "data_geracao": "2024-01-12 00:17:11"
+}

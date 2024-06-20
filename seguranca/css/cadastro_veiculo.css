@@ -1,0 +1,7 @@
+.placa-invalida {
+    color: red; /* Cor padrão para placa inválida */
+}
+
+.placa-valida{
+    color: green; /* Cor para placa válida */
+}

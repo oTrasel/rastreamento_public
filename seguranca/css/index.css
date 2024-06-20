@@ -1,0 +1,38 @@
+body {
+    background-color: #212F3C;
+    height: 100vh;
+    margin: 0;
+}
+
+#container {
+    height: 100%;
+    width: 100%;
+    display: flex;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    padding: 2%;
+}
+
+#content {
+    background-color: #212529;
+    border-radius: 3%;  
+    padding: 10px; 
+    width: 400px;
+    max-height: auto;
+}
+
+#homeTitle{
+    color: #0d6efc;
+}
+
+
+
+
+
+
+@media (max-height: 725px){ 
+    #content{
+        overflow-y: auto;
+    }
+}

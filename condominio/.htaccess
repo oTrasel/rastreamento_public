@@ -1,0 +1,4 @@
+Options -Indexes
+RewriteEngine On
+ErrorDocument 403 http://187.72.86.12:8085/condominio/
+ErrorDocument 404 http://187.72.86.12:8085/condominio/
